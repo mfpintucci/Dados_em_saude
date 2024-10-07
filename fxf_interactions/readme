@@ -1,0 +1,119 @@
+# Relatório de Avaliação de Prescrições (Março a Maio de 2018)
+
+## Projeto de Análise de Dados em Saúde 💊📊
+
+### 1. Introdução
+
+Este projeto tem como objetivo avaliar prescrições médicas analisadas entre março e maio de 2018, considerando dados clínicos e intervenções farmacêuticas realizadas durante o período. A análise tem foco em identificar interações medicamentosas graves e a taxa de aceitação das intervenções pela equipe médica, evidenciando a importância da atuação farmacêutica e da coleta de dados no contexto da saúde.
+
+### 2. Coleta e Organização de Dados 🗂️
+
+Foram avaliadas 365 prescrições, envolvendo uma população com idade média de 57,97 anos, composta por 173 pacientes do sexo feminino e 192 do sexo masculino. A coleta desses dados foi realizada de forma sistemática para garantir a precisão e confiabilidade da análise.
+
+A organização desses dados permitiu a avaliação de interações medicamentosas e intervenções farmacêuticas, detalhando os seguintes aspectos:
+- Total de prescrições: 365
+- Sexo: 173 feminino, 192 masculino
+- Idade média: 57,97 anos
+
+### 3. Análise Descritiva e Insights 🔍
+
+Apenas 44,38% das prescrições analisadas apresentavam interações medicamentosas. No entanto, essas interações resultaram em um total de **327 interações medicamentosas graves**.
+
+Foram realizadas intervenções farmacêuticas para tentar mitigar os riscos dessas interações:
+
+- **Intervenções em pacientes masculinos**: **83 intervenções**
+- **Intervenções em pacientes femininos**: **79 intervenções**
+
+Apesar da relevância das intervenções, apenas **20,37%** foram aceitas pela equipe médica no período da avaliação inicial.
+
+### 4. Padrões e Evolução 📈
+
+Entre 2018 e o início de 2020, a aceitação das intervenções farmacêuticas subiu de 20,37% para **quase 40%**, indicando um aumento significativo na confiança da equipe médica no trabalho dos farmacêuticos.
+
+Esse crescimento demonstra a importância da atuação farmacêutica na equipe multidisciplinar, especialmente na identificação e mitigação de interações medicamentosas graves.
+
+### 5. Tomada de Decisão Baseada em Dados 📊
+
+A coleta e análise dos dados clínicos foram essenciais para embasar decisões e criar estratégias de intervenção mais eficazes. Essa prática promoveu uma melhoria contínua da colaboração entre farmacêuticos e médicos, impactando positivamente a segurança e o cuidado com o paciente.
+
+### 6. Foco em Métricas de Saúde 🏥
+
+As principais métricas observadas foram:
+- **Interações medicamentosas graves**: 327
+- **Taxa de aceitação das intervenções farmacêuticas**: 20,37% (aumento para 40% em 2020)
+- **População analisada**: 365 prescrições, com idade média de 57,97 anos
+
+Essas métricas não apenas destacam a relevância das intervenções farmacêuticas, mas também demonstram como a análise de dados em saúde pode levar a melhores resultados clínicos e uma atuação mais efetiva na prevenção de interações perigosas.
+
+### 7. Conteúdo de Mídia 📊
+
+Dashboard desenvolvido em Power BI utilizando dados de planilha Excel.
+
+Foi necessário criar novas medidas DAX para personalizar e aprimorar as visualizações, além de realizar o tratamento dos dados existentes. O processo incluiu a verificação e ajuste dos tipos de dados em cada coluna, garantindo a precisão dos cálculos e a integridade das análises apresentadas no dashboard.
+
+### 8. Conclusão ✅
+
+Este projeto evidencia o valor da coleta e análise de dados na área da saúde, especialmente no contexto de interações medicamentosas e intervenções farmacêuticas. Ao longo do tempo, a confiança da equipe médica nos farmacêuticos aumentou significativamente, reforçando a importância da atuação multidisciplinar para a segurança do paciente.
+
+A coleta estruturada de dados clínicos e a análise criteriosa são fundamentais para identificar oportunidades de melhoria e embasar decisões que beneficiam a saúde dos pacientes.
+
+-------
+
+# Prescription Evaluation Report (March to May 2018)
+
+## Healthcare Data Analysis Project 💊📊
+
+### 1. Introduction
+
+This project aims to evaluate medical prescriptions analyzed between March and May 2018, considering clinical data and pharmaceutical interventions performed during this period. The analysis focuses on identifying severe drug interactions and the acceptance rate of interventions by the medical team, highlighting the importance of pharmaceutical practice and data collection in the healthcare context.
+
+### 2. Data Collection and Organization 🗂️
+
+A total of 365 prescriptions were evaluated, involving a population with an average age of 57.97 years, composed of 173 female patients and 192 male patients. The collection of these data was performed systematically to ensure the accuracy and reliability of the analysis.
+
+The organization of this data allowed for the evaluation of drug interactions and pharmaceutical interventions, detailing the following aspects:
+- Total prescriptions: 365
+- Gender: 173 female, 192 male
+- Average age: 57.97 years
+
+### 3. Descriptive Analysis and Insights 🔍
+
+Only 44.38% of the analyzed prescriptions showed drug interactions. However, these interactions resulted in a total of **327 severe drug interactions**.
+
+Pharmaceutical interventions were carried out to try to mitigate the risks of these interactions:
+
+- **Interventions in male patients**: **83 interventions**
+- **Interventions in female patients**: **79 interventions**
+
+Despite the relevance of the interventions, only **20.37%** were accepted by the medical team during the initial evaluation period.
+
+### 4. Patterns and Evolution 📈
+
+Between 2018 and early 2020, the acceptance of pharmaceutical interventions increased from 20.37% to **nearly 40%**, indicating a significant rise in the medical team's trust in pharmacists' work.
+
+This growth demonstrates the importance of pharmaceutical practice within the multidisciplinary team, especially in identifying and mitigating severe drug interactions.
+
+### 5. Data-Driven Decision Making 📊
+
+The collection and analysis of clinical data were essential for informing decisions and creating more effective intervention strategies. This practice promoted continuous improvement in collaboration between pharmacists and physicians, positively impacting patient safety and care.
+
+### 6. Focus on Health Metrics 🏥
+
+The main observed metrics were:
+- **Severe drug interactions**: 327
+- **Acceptance rate of pharmaceutical interventions**: 20.37% (increasing to 40% in 2020)
+- **Analyzed population**: 365 prescriptions, with an average age of 57.97 years
+
+These metrics not only highlight the relevance of pharmaceutical interventions but also demonstrate how data analysis in healthcare can lead to better clinical outcomes and more effective prevention of dangerous interactions.
+
+### 7. Media Content 📊
+
+Dashboard developed in Power BI using Excel data.
+
+It was necessary to create new DAX measures to customize and enhance the visualizations, in addition to processing the existing data. The process included verifying and adjusting the data types for each column, ensuring calculation accuracy and analysis integrity in the dashboard.
+
+### 8. Conclusion ✅
+
+This project highlights the value of data collection and analysis in healthcare, especially concerning drug interactions and pharmaceutical interventions. Over time, the trust of the medical team in pharmacists has significantly increased, reinforcing the importance of multidisciplinary practice for patient safety.
+
+Structured collection of clinical data and careful analysis are essential for identifying opportunities for improvement and informing decisions that benefit patient health.
